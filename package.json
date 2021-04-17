@@ -1,0 +1,14 @@
+{
+  "name": "rollup-plugin-vue3-svg-inline",
+  "version": "0.0.1",
+  "description": "Import svg as a component in vue3",
+  "main": "index.js",
+  "repository": "git@github.com:dirkliu/rollup-plugin-vue3-svg-inline.git",
+  "author": "dirkliu <liuqi0702@126.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "@rollup/pluginutils": "^4.1.0",
+    "@vue/compiler-dom": "^3.0.11"
+  }
+}

@@ -1,2 +1,4 @@
 # rollup-plugin-vue3-svg-inline
-import svg as a component in vue
+Import svg as a component in vue3  
+
+
