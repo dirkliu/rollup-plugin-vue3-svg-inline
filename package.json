@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-vue3-svg-inline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Import svg as a component in vue3",
   "module": "dist/svgInline.esm.js",
   "main": "dist/svgInline.js",
